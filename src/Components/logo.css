@@ -1,0 +1,11 @@
+li {
+    display: inline-block;
+
+}
+li a {
+    color: #c9c7c7;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding-right: 4rem;
+    font-weight: bolder;
+}
